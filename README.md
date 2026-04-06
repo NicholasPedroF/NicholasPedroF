@@ -29,14 +29,7 @@
 
 ---
 
-## 📊 Estatísticas
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NicholasPedroF&show_icons=true&theme=tokyonight&title_color=BF7821&icon_color=BF7821&text_color=F5E9E2&bg_color=0d0d0d"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasPedroF&layout=compact&theme=tokyonight&title_color=BF7821&text_color=F5E9E2&bg_color=0d0d0d"/>
-</p>
-
----
 
 ## 🔥 Sequência de Contribuições
 
@@ -48,15 +41,7 @@
 
 
 
-## 🚀 Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/NicholasPedroF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasPedroF&repo=ProjetosP&theme=tokyonight&title_color=BF7821&text_color=F5E9E2&bg_color=0d0d0d"/>
-  </a>
-</p>
-
----
 
 ## 🌐 Conecte-se comigo
 
