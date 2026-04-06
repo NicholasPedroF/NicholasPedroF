@@ -1,16 +1,83 @@
-## Hi there 👋
 
-<!--
-**NicholasPedroF/NicholasPedroF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Nicholas Pedro 🧖🏿</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+   Desenvolvedor em formação |  Back-end & Front-end
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+## 🍂 Sobre mim
+
+ Sou Nicholas Pedro Ferreira da Silva, tenho 18 anos e moro no Rio de Janeiro.  
+
+ Atualmente estudo desenvolvimento **Back-end e Front-end pelo SENAI**, além de me aprofundar em **Python pelo curso Hashtag**.  
+
+ Sempre tive conexão com tecnologia  desde jogos até manutenção de dispositivos  e hoje encontrei na programação um caminho que realmente me motiva a evoluir todos os dias.  
+
+ Busco minha primeira oportunidade como desenvolvedor.
+
+---
+
+## 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NicholasPedroF&show_icons=true&theme=tokyonight&title_color=BF7821&icon_color=BF7821&text_color=F5E9E2&bg_color=0d0d0d"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasPedroF&layout=compact&theme=tokyonight&title_color=BF7821&text_color=F5E9E2&bg_color=0d0d0d"/>
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NicholasPedroF&theme=tokyonight&ring=BF7821&fire=BF7821&currStreakLabel=BF7821"/>
+</p>
+
+---
+
+
+
+## 🚀 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/NicholasPedroF">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasPedroF&repo=ProjetosP&theme=tokyonight&title_color=BF7821&text_color=F5E9E2&bg_color=0d0d0d"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicholas-pedro-ferreira-da-silva-b829b13b2">
+    <img src="https://img.shields.io/badge/LinkedIn-260801?style=for-the-badge&logo=linkedin&logoColor=BF7821"/>
+  </a>
+  <a href="https://www.instagram.com/nc.ferreiraps/">
+    <img src="https://img.shields.io/badge/Instagram-260801?style=for-the-badge&logo=instagram&logoColor=BF7821"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+🚀 Conseguir minha primeira oportunidade como desenvolvedor  
+📈 Evoluir constantemente na área de tecnologia  
+
+---
+
+<p align="center">
+  ✨ <i>"A prática leva à evolução."</i>
+</p>
