@@ -58,11 +58,7 @@
 
 ## 🎯 Objetivo
 
-🚀 Conseguir minha primeira oportunidade como desenvolvedor  
-📈 Evoluir constantemente na área de tecnologia  
+- Conseguir minha primeira oportunidade como desenvolvedor  
+- Evoluir constantemente na área de tecnologia  
 
----
 
-<p align="center">
-  ✨ <i>"A prática leva à evolução."</i>
-</p>
